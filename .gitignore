@@ -1,0 +1,6 @@
+package-lock.json
+node-rest-shop/*
+.idea/*
+
+images/*
+!images/.gitkeep
